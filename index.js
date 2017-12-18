@@ -1,6 +1,5 @@
-"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-function string(str) {
-    return (str);
+function omair() {
+    console.log("Hello World!");
 }
-exports.string = string;
+exports.omair = omair;

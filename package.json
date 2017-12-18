@@ -1,11 +1,9 @@
 {
   "name": "hello-omair",
-  "version": "1.0.0",
+  "version": "3.1.1",
   "description": "A Node.js module that prints Hello World!",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
   "scripts": {
-    "build": "tsc",
     "test": "mocha --reporter spec"
   },
   "repository": {
@@ -20,7 +18,7 @@
   "homepage": "https://github.com/omairqazi/hello#readme",
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "^4.0.1",
-    "typescript": "^2.6.2"
-  }
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {}
 }

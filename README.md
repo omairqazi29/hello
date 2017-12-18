@@ -13,16 +13,7 @@ yarn add hello-omair
 
 ```javascript
 var hello = require('hello-omair');
-var hw = hello.string('Hello World!');
-```
-```sh
-Output should be 'Hello World!'
-```
-
-### TypeScript
-```typescript
-import { string } from 'hello-omair';
-console.log('Hello World!')
+var omair = hello.omair();
 ```
 ```sh
 Output should be 'Hello World!'
