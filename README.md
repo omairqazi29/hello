@@ -1,5 +1,5 @@
 # hello
-A Node.js module that prints 'Hello World'
+A Node.js module that prints 'Hello World!'
 
 ## Installation 
 ```sh
