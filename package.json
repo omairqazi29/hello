@@ -1,6 +1,6 @@
 {
   "name": "hello-omair",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Node.js module that prints Hello World!",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
