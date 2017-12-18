@@ -3,8 +3,8 @@ A Node.js module that prints 'Hello World'
 
 ## Installation 
 ```sh
-npm install hello --save
-yarn add hello
+npm install hello-omair --save
+yarn add hello-omair
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ yarn add hello
 ### Javascript
 
 ```javascript
-var hello = require('hello');
+var hello = require('hello-omair');
 var hw = hello.string('Hello World!');
 ```
 ```sh
@@ -21,7 +21,7 @@ Output should be 'Hello World!'
 
 ### TypeScript
 ```typescript
-import { string } from 'hello';
+import { string } from 'hello-omair';
 console.log('Hello World!')
 ```
 ```sh
