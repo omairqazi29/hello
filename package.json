@@ -1,6 +1,10 @@
 {
   "name": "hello-omair",
+<<<<<<< HEAD
   "version": "3.1.1",
+=======
+  "version": "2.0.0",
+>>>>>>> e7e1b224c22f1ac713331b22f8b544b386f9ec8f
   "description": "A Node.js module that prints Hello World!",
   "main": "index.js",
   "scripts": {
